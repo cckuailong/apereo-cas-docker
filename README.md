@@ -12,6 +12,12 @@ modify here
 FROM apereo/cas:6.4.1
 ```
 
+## Build
+
+```
+docker-compose build
+```
+
 ## Start
 
 ```
